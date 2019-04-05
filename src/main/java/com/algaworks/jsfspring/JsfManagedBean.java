@@ -1,8 +1,8 @@
 package com.algaworks.jsfspring;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import javax.faces.bean.ManagedBean;
+
+import org.springframework.beans.factory.annotation.Autowired;
 
 @ManagedBean
 public class JsfManagedBean {
